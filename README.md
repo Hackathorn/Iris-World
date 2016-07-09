@@ -5,7 +5,7 @@
 Explain more about this IA world. What is its purpose, contents, etc.
 ![](./images/iris_small.jpg)
 
-## Links to Resources
+## Links to Resources 
 
 - IA papers
 - [ebook and paperback](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning) from Packt (the publisher)
