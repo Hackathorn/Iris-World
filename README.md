@@ -7,13 +7,11 @@ Explain more about this IA world. What is its purpose, contents, etc.
 
 ## Table of Contents
 
-1. Machine Learning - Giving Computers the Ability to Learn from Data [[dir](./code/ch01)] [[ipynb](./code/ch01/ch01.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb)]
-2. Training Machine Learning Algorithms for Classification [[dir](./code/ch02)] [[ipynb](./code/ch02/ch02.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch02/ch02.ipynb)]
+1. Data Preparation [[dir](./code/ch01)] [[ipynb](./notebooks/IrisClassifiers-DataPrep.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb)]
 
 ## FAQ
 
 - [What are machine learning and data science?](./faq/datascience-ml.md)
-- [Why do you and other people sometimes implement machine learning algorithms from scratch?](./faq/implementing-from-scratch.md)
 
 ## Links to Resources 
 
