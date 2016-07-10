@@ -1,22 +1,26 @@
-# Iris World
-## ...IA world about classifiers using the Iris dataset
+<a href="http://www.immersiveanalytics.com/">
+   <img src="http://www.immersiveanalytics.com/wp-content/uploads/2015/08/Immersive-Analytics-Logo-2015_03.png">
+</a>
+
+# Iris World - Classifier Study using Iris Dataset
+
+![Iris Flower](./images/IrisFlowerSmall-Photo by DAVID ILIFF CC-BY-SA 3.jpg)
+**...IA world about classifiers using the Iris dataset**
 
 Explain more about this IA world. What is its purpose, contents, etc.
 
-[](./images/IrisFlowerSmall-Photo by DAVID ILIFF CC-BY-SA 3.jpg)
-
 ## Table of Contents
 
-1. Data Preparation [[dir](./code/ch01)] [[ipynb](./notebooks/IrisClassifiers-DataPrep.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb)]
+1. Data Preparation [[dir](./notebooks/)] [[ipynb](./notebooks/IrisClassifiers-DataPrep.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/hackathorn/iris_world/notebooks/IrisClassifiers-DataPrep.ipynb)]
 
 ## FAQ
 
-- [What are machine learning and data science?](./faq/datascience-ml.md)
+- [What is Immersive Analytics?](./faq/WhatIsImmersiveAnalytics.md)
 
 ## Links to Resources 
 
-- IA papers
-- [ebook and paperback](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning) from Packt (the publisher)
+- [Immersive Analytics community website](http://www.immersiveanalytics.com/)
+
 
 ## Contact
 
